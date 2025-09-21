@@ -12,4 +12,5 @@ For accessibility, I made sure to:
 Additionally, I used semantic HTML5 elements like `header`, `nav`, `main`, `section`, `footer`, and `aside` to improve the structure and meaning of the page.
 
  • Screenshots (2): (1) Page in browser (2) DevTools → Elements showing semantic landmarks
- ![SS](<Screenshot (58).png>) ![SS](<Screenshot (55).png>) ![SS](<Screenshot (56).png>) ![SS](<Screenshot (57).png>)
+ ![SS](<Screenshot (58).png>)
+![screenshot page](_C__Users_chris_ucu-dip-webdev-2025-tag-safari-lillian_index.html.png)
